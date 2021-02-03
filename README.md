@@ -1,0 +1,2 @@
+# Secure_and_Private_AI_Federated_Learning
+Federated Learning is a privacy preserving and secure way of collaborative and distributed learning. Here, model training can be done by the contribution of data from multiple parties without actually sharing the data with each other. This is an interdisciplinary field which loans theory from cryptography and statistics to facilitate private artificial intelligence. This repo will contain my walkthrough of the Andrew Trask course of Secure and Private AI
